@@ -36,3 +36,6 @@ button{
 .function.last{
     border-bottom: none;
 }
+.invisible{
+    display: none;
+}
